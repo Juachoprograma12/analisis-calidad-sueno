@@ -57,7 +57,7 @@
 Análisis exploratorio de datos para entender cómo factores como género, ocupación, actividad física y estrés afectan la calidad del sueño y la salud general.
 
 🧰 **Herramientas:**  
-Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+Python, Pandas, Matplotlib, Seaborn, Google Colab
 
 🎯 **Objetivo:**  
 Mostrar patrones y tendencias útiles para mejorar el bienestar a través de datos reales.
