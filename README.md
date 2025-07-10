@@ -50,7 +50,6 @@
     📌 Ver Proyecto Completo
   </a>
 </p>
----
 
 ### 📊 Proyecto: Análisis Calidad del Sueño
 
