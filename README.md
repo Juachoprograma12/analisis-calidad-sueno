@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/Juachoprograma12/analisis-calidad-sueno/blob/main/CALIDAD_DE_SUENO.ipynb" target="_blank">
-    📌 Ver Proyecto Completo
+   [📌 Ver Proyecto Completo](https://github.com/Juachoprograma12/analisis-calidad-sueno/blob/main/calidad_de_sueno.ipynb) 
   </a>
 </p>
 
