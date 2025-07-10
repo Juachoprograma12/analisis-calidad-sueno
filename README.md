@@ -46,17 +46,10 @@
 <h1>Some of my Projects! 🎨</h1>
 
 <p align="center">
-  <a href="https://github.com/Juachoprograma12/analisis-calidad-sueno/blob/main/CALIDAD_DE_SUENO.ipynb" target="_blank">
-    <img src="https://raw.githubusercontent.com/Juachoprograma12/analisis-calidad-sueno/main/preview-image.png" alt="Proyecto Calidad de Sueño" width="500px"/>
+  <a href="https://github.com/Juachoprograma12/analisis-calidad-sueno/blob/main/CALIDAD_DE_SUEÑO.ipynb" target="_blank">
+    📌 Ver Proyecto Completo
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Juachoprograma12/analisis-calidad-sueno/blob/main/CALIDAD_DE_SUENO.ipynb" target="_blank">
-  [📌 Ver Proyecto Completo](https://github.com/Juachoprograma12/analisis-calidad-sueno/blob/main/calidad_de_sueno.ipynb)
-  </a>
-</p>
-
 ---
 
 ### 📊 Proyecto: Análisis Calidad del Sueño
